@@ -1,0 +1,11 @@
+fastapi==0.88.0
+pandas==1.5.1
+pydantic==1.10.2
+streamlit==1.14.1
+tanserflow
+uvicorn==0.20.0
+tensorflow 
+keras 
+keras.applications.inception_v3 
+keras.applications.inception_v3 
+numpy
